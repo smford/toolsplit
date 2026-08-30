@@ -1,7 +1,7 @@
 {
-  "datestamp": "2026-08-29-101810",
+  "datestamp": "2026-08-30-102127",
   "timezone": "America/New_York (Orlando, FL, USA)",
-  "generated_at": "2026-08-29T10:18:10.714490-04:00",
+  "generated_at": "2026-08-30T10:21:27.256183-04:00",
   "total_deals": 52,
   "source": "homedepot.com (Anchor Promotion & Dynamic Discovery)",
   "supported_brands": [
@@ -32,7 +32,7 @@
       "primary_item": {
         "name": "20V MAX XR Brushless 1/2\" Hammer Drill with POWER DETECT",
         "model_number": "DCD999B",
-        "homedepot_sku": "990646644",
+        "homedepot_sku": "951737660",
         "msrp": 209.0,
         "url": "https://www.homedepot.com/s/DeWalt%20DCD999B?NCNI-5"
       },
@@ -70,7 +70,7 @@
       "primary_item": {
         "name": "20V MAX XR Brushless 7-1/4\" Circular Saw with POWER DETECT",
         "model_number": "DCS574B",
-        "homedepot_sku": "694330601",
+        "homedepot_sku": "215875749",
         "msrp": 219.0,
         "url": "https://www.homedepot.com/s/DeWalt%20DCS574B?NCNI-5"
       },
@@ -108,7 +108,7 @@
       "primary_item": {
         "name": "20V MAX XR Brushless Reciprocating Saw with POWER DETECT",
         "model_number": "DCS386B",
-        "homedepot_sku": "388528589",
+        "homedepot_sku": "740856753",
         "msrp": 219.0,
         "url": "https://www.homedepot.com/s/DeWalt%20DCS386B?NCNI-5"
       },
@@ -146,7 +146,7 @@
       "primary_item": {
         "name": "20V MAX XR 3-Speed Cordless Oscillating Multi-Tool",
         "model_number": "DCS356B",
-        "homedepot_sku": "890905728",
+        "homedepot_sku": "615021473",
         "msrp": 159.0,
         "url": "https://www.homedepot.com/s/DeWalt%20DCS356B?NCNI-5"
       },
@@ -184,7 +184,7 @@
       "primary_item": {
         "name": "20V MAX XR Brushless Cordless Compact Router",
         "model_number": "DCW600B",
-        "homedepot_sku": "582986022",
+        "homedepot_sku": "832129559",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/DeWalt%20DCW600B?NCNI-5"
       },
@@ -222,7 +222,7 @@
       "primary_item": {
         "name": "20V MAX XR Brushless Cordless Jig Saw",
         "model_number": "DCS334B",
-        "homedepot_sku": "665848871",
+        "homedepot_sku": "604417268",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/DeWalt%20DCS334B?NCNI-5"
       },
@@ -260,7 +260,7 @@
       "primary_item": {
         "name": "20V MAX XR 1/2\" Mid-Torque Impact Wrench (800 ft-lbs)",
         "model_number": "DCF891B",
-        "homedepot_sku": "823091559",
+        "homedepot_sku": "555450254",
         "msrp": 239.0,
         "url": "https://www.homedepot.com/s/DeWalt%20DCF891B?NCNI-5"
       },
@@ -298,7 +298,7 @@
       "primary_item": {
         "name": "M18 FUEL SAWZALL 18V Cordless Reciprocating Saw (Tool-Only)",
         "model_number": "2821-20",
-        "homedepot_sku": "510793475",
+        "homedepot_sku": "598783665",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202821-20?NCNI-5"
       },
@@ -336,7 +336,7 @@
       "primary_item": {
         "name": "M18 FUEL 18V 4-1/2 in. / 5 in. Braking Grinder Paddle Switch (Tool-Only)",
         "model_number": "2880-20",
-        "homedepot_sku": "941415037",
+        "homedepot_sku": "499000858",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202880-20?NCNI-5"
       },
@@ -374,7 +374,7 @@
       "primary_item": {
         "name": "M18 FUEL 6-1/2 in. Cordless Circular Saw (Tool-Only)",
         "model_number": "2730-20",
-        "homedepot_sku": "286697497",
+        "homedepot_sku": "977662485",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202730-20?NCNI-5"
       },
@@ -412,7 +412,7 @@
       "primary_item": {
         "name": "M18 FUEL Brushless Cordless Compact Router (Tool-Only)",
         "model_number": "2723-20",
-        "homedepot_sku": "290185050",
+        "homedepot_sku": "251060302",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202723-20?NCNI-5"
       },
@@ -450,7 +450,7 @@
       "primary_item": {
         "name": "M18 FUEL Brushless Cordless Oscillating Multi-Tool (Tool-Only)",
         "model_number": "2836-20",
-        "homedepot_sku": "921821249",
+        "homedepot_sku": "289345981",
         "msrp": 229.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202836-20?NCNI-5"
       },
@@ -488,7 +488,7 @@
       "primary_item": {
         "name": "M18 FUEL D-Handle Cordless Jig Saw (Tool-Only)",
         "model_number": "2737-20",
-        "homedepot_sku": "457564190",
+        "homedepot_sku": "197817606",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202737-20?NCNI-5"
       },
@@ -526,7 +526,7 @@
       "primary_item": {
         "name": "M18 FUEL 1/2 in. Hammer Drill/Driver (Tool-Only)",
         "model_number": "2904-20",
-        "homedepot_sku": "586071514",
+        "homedepot_sku": "409912337",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202904-20?NCNI-5"
       },
@@ -564,7 +564,7 @@
       "primary_item": {
         "name": "M18 FUEL One-Handed Hackzall Reciprocating Saw (Tool-Only)",
         "model_number": "2719-20",
-        "homedepot_sku": "708172503",
+        "homedepot_sku": "977083054",
         "msrp": 169.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202719-20?NCNI-5"
       },
@@ -602,7 +602,7 @@
       "primary_item": {
         "name": "M18 18V Compact Jobsite Blower (Tool-Only)",
         "model_number": "0884-20",
-        "homedepot_sku": "117701971",
+        "homedepot_sku": "383626074",
         "msrp": 129.0,
         "url": "https://www.homedepot.com/s/Milwaukee%200884-20?NCNI-5"
       },
@@ -640,7 +640,7 @@
       "primary_item": {
         "name": "18V Brushless 7-1/4\" Rear-Handle Circular Saw",
         "model_number": "R8657",
-        "homedepot_sku": "534117413",
+        "homedepot_sku": "209313571",
         "msrp": 219.0,
         "url": "https://www.homedepot.com/s/RIDGID%20R8657?NCNI-5"
       },
@@ -678,7 +678,7 @@
       "primary_item": {
         "name": "18V Brushless Cordless Oscillating Multi-Tool",
         "model_number": "R86043B",
-        "homedepot_sku": "674348201",
+        "homedepot_sku": "729073586",
         "msrp": 149.0,
         "url": "https://www.homedepot.com/s/RIDGID%20R86043B?NCNI-5"
       },
@@ -716,7 +716,7 @@
       "primary_item": {
         "name": "18V Brushless Cordless Compact Router",
         "model_number": "R860443B",
-        "homedepot_sku": "480562614",
+        "homedepot_sku": "348719622",
         "msrp": 149.0,
         "url": "https://www.homedepot.com/s/RIDGID%20R860443B?NCNI-5"
       },
@@ -754,7 +754,7 @@
       "primary_item": {
         "name": "18V Brushless 1/2\" Mid-Torque Impact Wrench (650 ft-lbs)",
         "model_number": "R86211B",
-        "homedepot_sku": "788635660",
+        "homedepot_sku": "607651329",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/RIDGID%20R86211B?NCNI-5"
       },
@@ -792,7 +792,7 @@
       "primary_item": {
         "name": "18V LXT Brushless 1/2\" Hammer Drill/Driver",
         "model_number": "XPH14Z",
-        "homedepot_sku": "991557002",
+        "homedepot_sku": "368451466",
         "msrp": 179.0,
         "url": "https://www.homedepot.com/s/Makita%20XPH14Z?NCNI-5"
       },
@@ -830,7 +830,7 @@
       "primary_item": {
         "name": "18V LXT Brushless 4-Speed Impact Driver",
         "model_number": "XDT19Z",
-        "homedepot_sku": "641000104",
+        "homedepot_sku": "314665443",
         "msrp": 169.0,
         "url": "https://www.homedepot.com/s/Makita%20XDT19Z?NCNI-5"
       },
@@ -868,7 +868,7 @@
       "primary_item": {
         "name": "18V LXT Brushless 6-1/2\" Circular Saw",
         "model_number": "XSH03Z",
-        "homedepot_sku": "556620092",
+        "homedepot_sku": "921884499",
         "msrp": 189.0,
         "url": "https://www.homedepot.com/s/Makita%20XSH03Z?NCNI-5"
       },
@@ -906,7 +906,7 @@
       "primary_item": {
         "name": "18V LXT Brushless Reciprocating Saw",
         "model_number": "XRJ05Z",
-        "homedepot_sku": "422213876",
+        "homedepot_sku": "545878165",
         "msrp": 179.0,
         "url": "https://www.homedepot.com/s/Makita%20XRJ05Z?NCNI-5"
       },
@@ -944,7 +944,7 @@
       "primary_item": {
         "name": "18V LXT Brushless Compact Router",
         "model_number": "XTR01Z",
-        "homedepot_sku": "482199209",
+        "homedepot_sku": "457391499",
         "msrp": 179.0,
         "url": "https://www.homedepot.com/s/Makita%20XTR01Z?NCNI-5"
       },
@@ -982,7 +982,7 @@
       "primary_item": {
         "name": "18V LXT Cordless Oscillating Multi-Tool",
         "model_number": "XMT03Z",
-        "homedepot_sku": "894806325",
+        "homedepot_sku": "589174305",
         "msrp": 149.0,
         "url": "https://www.homedepot.com/s/Makita%20XMT03Z?NCNI-5"
       },
@@ -1020,7 +1020,7 @@
       "primary_item": {
         "name": "18V LXT Brushless 4-1/2\" / 5\" Angle Grinder",
         "model_number": "XAG04Z",
-        "homedepot_sku": "768685833",
+        "homedepot_sku": "101760330",
         "msrp": 159.0,
         "url": "https://www.homedepot.com/s/Makita%20XAG04Z?NCNI-5"
       },
@@ -1058,7 +1058,7 @@
       "primary_item": {
         "name": "18V LXT Brushless 1/2\" Impact Wrench",
         "model_number": "XWT14Z",
-        "homedepot_sku": "630484852",
+        "homedepot_sku": "519595030",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Makita%20XWT14Z?NCNI-5"
       },
@@ -1096,14 +1096,14 @@
       "primary_item": {
         "name": "M18 FUEL 1/2\" High Torque Impact Wrench Friction Ring",
         "model_number": "2967-20",
-        "homedepot_sku": "858656807",
+        "homedepot_sku": "851588869",
         "msrp": 299.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202967-20?NCNI-5"
       },
       "secondary_item": {
         "name": "M18 REDLITHIUM FORGE XC6.0Ah High Output Battery",
         "model_number": "48-11-1860",
-        "homedepot_sku": "247061887",
+        "homedepot_sku": "409779883",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%2048-11-1860?NCNI-5"
       },
@@ -1134,7 +1134,7 @@
       "primary_item": {
         "name": "M18 FUEL SAWZALL 18V Cordless Reciprocating Saw (Tool-Only)",
         "model_number": "2821-20",
-        "homedepot_sku": "510793475",
+        "homedepot_sku": "598783665",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202821-20?NCNI-5"
       },
@@ -1172,7 +1172,7 @@
       "primary_item": {
         "name": "M18 FUEL 18V 4-1/2 in. / 5 in. Braking Grinder Paddle Switch (Tool-Only)",
         "model_number": "2880-20",
-        "homedepot_sku": "941415037",
+        "homedepot_sku": "499000858",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202880-20?NCNI-5"
       },
@@ -1210,7 +1210,7 @@
       "primary_item": {
         "name": "M18 FUEL 6-1/2 in. Cordless Circular Saw (Tool-Only)",
         "model_number": "2730-20",
-        "homedepot_sku": "286697497",
+        "homedepot_sku": "977662485",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202730-20?NCNI-5"
       },
@@ -1248,7 +1248,7 @@
       "primary_item": {
         "name": "M18 FUEL Brushless Cordless Compact Router (Tool-Only)",
         "model_number": "2723-20",
-        "homedepot_sku": "290185050",
+        "homedepot_sku": "251060302",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202723-20?NCNI-5"
       },
@@ -1286,7 +1286,7 @@
       "primary_item": {
         "name": "M18 FUEL Brushless Cordless Oscillating Multi-Tool (Tool-Only)",
         "model_number": "2836-20",
-        "homedepot_sku": "921821249",
+        "homedepot_sku": "289345981",
         "msrp": 229.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202836-20?NCNI-5"
       },
@@ -1324,7 +1324,7 @@
       "primary_item": {
         "name": "M18 FUEL D-Handle Cordless Jig Saw (Tool-Only)",
         "model_number": "2737-20",
-        "homedepot_sku": "457564190",
+        "homedepot_sku": "197817606",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202737-20?NCNI-5"
       },
@@ -1362,7 +1362,7 @@
       "primary_item": {
         "name": "M18 FUEL Barrel Grip Cordless Jig Saw (Tool-Only)",
         "model_number": "2737B-20",
-        "homedepot_sku": "107327038",
+        "homedepot_sku": "379080673",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202737B-20?NCNI-5"
       },
@@ -1400,7 +1400,7 @@
       "primary_item": {
         "name": "M18 FUEL 1/2 in. Hammer Drill/Driver (Tool-Only)",
         "model_number": "2904-20",
-        "homedepot_sku": "586071514",
+        "homedepot_sku": "409912337",
         "msrp": 199.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202904-20?NCNI-5"
       },
@@ -1438,7 +1438,7 @@
       "primary_item": {
         "name": "M18 Compact Brushless 1/2 in. Hammer Drill/Driver (Tool-Only)",
         "model_number": "2902-20",
-        "homedepot_sku": "840943627",
+        "homedepot_sku": "191105893",
         "msrp": 149.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202902-20?NCNI-5"
       },
@@ -1476,7 +1476,7 @@
       "primary_item": {
         "name": "M18 FUEL 1/4\" Hex Impact Driver (Tool-Only)",
         "model_number": "2953-20",
-        "homedepot_sku": "126776658",
+        "homedepot_sku": "964134801",
         "msrp": 149.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202953-20?NCNI-5"
       },
@@ -1514,7 +1514,7 @@
       "primary_item": {
         "name": "M18 FUEL One-Handed Hackzall Reciprocating Saw (Tool-Only)",
         "model_number": "2719-20",
-        "homedepot_sku": "708172503",
+        "homedepot_sku": "977083054",
         "msrp": 169.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202719-20?NCNI-5"
       },
@@ -1552,7 +1552,7 @@
       "primary_item": {
         "name": "M18 FUEL 18V Brushless Compact Band Saw (Tool-Only)",
         "model_number": "2829-20",
-        "homedepot_sku": "843941732",
+        "homedepot_sku": "330757852",
         "msrp": 329.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202829-20?NCNI-5"
       },
@@ -1590,7 +1590,7 @@
       "primary_item": {
         "name": "M18 FUEL 18V Deep Cut Band Saw (Tool-Only)",
         "model_number": "2729-20",
-        "homedepot_sku": "286097402",
+        "homedepot_sku": "716441248",
         "msrp": 379.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202729-20?NCNI-5"
       },
@@ -1628,7 +1628,7 @@
       "primary_item": {
         "name": "M18 FUEL 18V 7-1/4\" Rear Handle Circular Saw (Tool-Only)",
         "model_number": "2830-20",
-        "homedepot_sku": "782953320",
+        "homedepot_sku": "267854738",
         "msrp": 279.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202830-20?NCNI-5"
       },
@@ -1666,7 +1666,7 @@
       "primary_item": {
         "name": "M18 FUEL 18-Gauge Cordless Brad Nailer (Tool-Only)",
         "model_number": "2746-20",
-        "homedepot_sku": "731776435",
+        "homedepot_sku": "444904800",
         "msrp": 299.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202746-20?NCNI-5"
       },
@@ -1704,7 +1704,7 @@
       "primary_item": {
         "name": "M18 FUEL 2-Gallon Compact Quiet Air Compressor",
         "model_number": "2840-20",
-        "homedepot_sku": "986784460",
+        "homedepot_sku": "261599903",
         "msrp": 379.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202840-20?NCNI-5"
       },
@@ -1742,7 +1742,7 @@
       "primary_item": {
         "name": "M18 FUEL 1/2\" Mid-Torque Impact Wrench Friction Ring (650 ft-lbs)",
         "model_number": "2962-20",
-        "homedepot_sku": "464300185",
+        "homedepot_sku": "200160109",
         "msrp": 249.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202962-20?NCNI-5"
       },
@@ -1780,7 +1780,7 @@
       "primary_item": {
         "name": "M18 FUEL 1/2\" High Torque Impact Wrench Friction Ring (1,600 ft-lbs)",
         "model_number": "2967-20",
-        "homedepot_sku": "858656807",
+        "homedepot_sku": "851588869",
         "msrp": 299.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202967-20?NCNI-5"
       },
@@ -1818,7 +1818,7 @@
       "primary_item": {
         "name": "M18 18V 2-Gallon Wet/Dry Vacuum (Tool-Only)",
         "model_number": "0880-20",
-        "homedepot_sku": "620398099",
+        "homedepot_sku": "492448415",
         "msrp": 129.0,
         "url": "https://www.homedepot.com/s/Milwaukee%200880-20?NCNI-5"
       },
@@ -1856,7 +1856,7 @@
       "primary_item": {
         "name": "M18 18V Compact Jobsite Blower (Tool-Only)",
         "model_number": "0884-20",
-        "homedepot_sku": "117701971",
+        "homedepot_sku": "383626074",
         "msrp": 129.0,
         "url": "https://www.homedepot.com/s/Milwaukee%200884-20?NCNI-5"
       },
@@ -1894,7 +1894,7 @@
       "primary_item": {
         "name": "M18 FUEL 1/4\" Die Grinder (Tool-Only)",
         "model_number": "2784-20",
-        "homedepot_sku": "631502586",
+        "homedepot_sku": "159161654",
         "msrp": 219.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202784-20?NCNI-5"
       },
@@ -1932,14 +1932,14 @@
       "primary_item": {
         "name": "M18 FUEL 18V Hammer Drill & Impact Driver 2-Tool Combo Kit",
         "model_number": "3697-22",
-        "homedepot_sku": "279461646",
+        "homedepot_sku": "460760424",
         "msrp": 399.0,
         "url": "https://www.homedepot.com/s/Milwaukee%203697-22?NCNI-5"
       },
       "secondary_item": {
         "name": "M18 FUEL 1/4\" Hex Impact Driver",
         "model_number": "2953-20",
-        "homedepot_sku": "126776658",
+        "homedepot_sku": "964134801",
         "msrp": 149.0,
         "url": "https://www.homedepot.com/s/Milwaukee%202953-20?NCNI-5"
       },
@@ -1970,14 +1970,14 @@
       "primary_item": {
         "name": "18V Brushless SubCompact 2-Tool Combo Kit with (2) 2.0Ah Batteries",
         "model_number": "R97801",
-        "homedepot_sku": "834825455",
+        "homedepot_sku": "167199630",
         "msrp": 229.0,
         "url": "https://www.homedepot.com/s/RIDGID%20R97801?NCNI-5"
       },
       "secondary_item": {
         "name": "18V MAX Output 4.0Ah Lithium-Ion Battery",
         "model_number": "AC840080",
-        "homedepot_sku": "635035658",
+        "homedepot_sku": "230846730",
         "msrp": 119.0,
         "url": "https://www.homedepot.com/s/RIDGID%20AC840080?NCNI-5"
       },
@@ -1995,5 +1995,5 @@
     }
   ],
   "total_potential_savings": 9968.0,
-  "calculated_at": "2026-08-29T10:18:10.787061-04:00"
+  "calculated_at": "2026-08-30T10:21:27.347426-04:00"
 }
